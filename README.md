@@ -1,4 +1,4 @@
-# Projekt programu
+# Projekt programu nauczania
 
 Aby skorzystac z aplikacji nalezy sklonowac projekt za pomoca:
 
